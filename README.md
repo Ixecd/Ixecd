@@ -1,5 +1,4 @@
 # 🌌 Ixecd
 
 ### 👋 Hello, Welcome to my Github!
-
-![](https://v.iqmx.top/gh/ixecd/ixecd?style=none)
+![](https://counter.yimian.workers.dev/gh/ixecd/ixecd?theme=transparent)
