@@ -1,4 +1,4 @@
 # 🌌 Ixecd
 
 ### 👋 Hello, Welcome to my Github!
-![](https://counter.yimian.workers.dev/gh/ixecd/ixecd?theme=transparent)
+![](https://readme-metrics.com/api/gh/ixecd?hide=1)
